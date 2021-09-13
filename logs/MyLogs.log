@@ -1,0 +1,136 @@
+[ERROR] 2021-09-02 04:47:38.537 [main] WebPage - "Invalid browser name"
+[INFO ] 2021-09-02 04:48:02.522 [main] WebPage - Launched Chrome browser successfully
+[DEBUG] 2021-09-02 05:01:03.503 [main] WebPage - This is a debug message
+[INFO ] 2021-09-02 05:01:03.505 [main] WebPage - This is a info message
+[WARN ] 2021-09-02 05:01:03.505 [main] WebPage - This is a warn message
+[ERROR] 2021-09-02 05:01:03.506 [main] WebPage - This is a error message
+[FATAL] 2021-09-02 05:01:03.506 [main] WebPage - This is a fatal message
+[INFO ] 2021-09-02 05:02:05.840 [main] WebPage - Launched Chrome browser successfully
+[INFO ] 2021-09-02 05:39:12.120 [main] WebPage - Set up the chrome driver
+[INFO ] 2021-09-02 05:39:13.416 [main] WebPage - Launched Chrome browser successfully
+[INFO ] 2021-09-02 05:39:13.417 [main] WebPage - Thread id: 1
+[INFO ] 2021-09-02 05:39:13.543 [main] WebPage - Maximized browser window
+[INFO ] 2021-09-02 05:39:14.967 [main] WebPage - Opened http://www.amazon.in URL
+[INFO ] 2021-09-02 05:39:14.977 [main] WebPage - Page Title: Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2021-09-02 05:39:14.984 [main] WebPage - Current url: https://www.amazon.in/
+[INFO ] 2021-09-02 05:39:15.779 [main] WebPage - Clicked link with visible text 'Amazon Pay'
+[INFO ] 2021-09-02 05:39:15.813 [main] WebPage - Current url: https://www.amazon.in/gp/sva/dashboard?ref_=nav_cs_apay_fe0c735739554ca1a7cccf7c41941f2f
+[INFO ] 2021-09-02 05:39:16.977 [main] WebPage - Clicked link with visible text 'Best Sellers'
+[INFO ] 2021-09-02 05:39:17.032 [main] WebPage - Current url: https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers_17d44cb01bd144359b81b1c10b84dd98
+[INFO ] 2021-09-02 05:39:18.394 [main] WebPage - Clicked link with visible text 'Mobiles'
+[INFO ] 2021-09-02 05:39:18.414 [main] WebPage - Current url: https://www.amazon.in/mobile-phones/b/?ie=UTF8&node=1389401031&ref_=nav_cs_mobiles_9292c6cb7b394d30b2467b8f631090a7
+[INFO ] 2021-09-02 05:39:20.364 [main] WebPage - Clicked link with visible text 'Fashion'
+[INFO ] 2021-09-02 05:39:20.371 [main] WebPage - Current url: https://www.amazon.in/gp/browse.html?node=6648217031&ref_=nav_cs_fashion_ad6f81eb5d474066bc9e5788a3c19a28
+[INFO ] 2021-09-02 05:39:22.019 [main] WebPage - Clicked link with visible text 'Electronics'
+[INFO ] 2021-09-02 05:39:22.023 [main] WebPage - Current url: https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ref_=nav_cs_electronics_c5b70a82461a484189e700166599ce9f
+[INFO ] 2021-09-02 05:39:29.050 [main] WebPage - Deleted all cookies
+[INFO ] 2021-09-02 05:39:33.237 [main] WebPage - Closed the current browser window
+[INFO ] 2021-09-02 05:39:33.831 [main] WebPage - Closed all browser windows
+[INFO ] 2021-09-02 11:29:56.389 [main] WebPage - Set up the chrome driver
+[INFO ] 2021-09-02 11:29:57.958 [main] WebPage - Launched Chrome browser successfully
+[INFO ] 2021-09-02 11:30:05.062 [main] WebPage - Deleted all cookies
+[INFO ] 2021-09-02 11:30:05.161 [main] WebPage - Closed the current browser window
+[INFO ] 2021-09-02 11:30:05.779 [main] WebPage - Closed all browser windows
+[INFO ] 2021-09-02 11:31:05.065 [main] WebPage - Set up the chrome driver
+[INFO ] 2021-09-02 11:31:06.794 [main] WebPage - Launched Chrome browser successfully
+[INFO ] 2021-09-02 11:31:13.890 [main] WebPage - Deleted all cookies
+[INFO ] 2021-09-02 11:31:13.973 [main] WebPage - Closed the current browser window
+[INFO ] 2021-09-02 11:31:14.573 [main] WebPage - Closed all browser windows
+[INFO ] 2021-09-02 11:38:18.774 [main] WebPage - Set up the chrome driver
+[INFO ] 2021-09-02 11:38:20.371 [main] WebPage - Launched Chrome browser successfully
+[INFO ] 2021-09-02 11:38:27.464 [main] WebPage - Deleted all cookies
+[INFO ] 2021-09-02 11:38:27.589 [main] WebPage - Closed the current browser window
+[INFO ] 2021-09-02 11:38:28.194 [main] WebPage - Closed all browser windows
+[INFO ] 2021-09-02 11:40:45.000 [main] WebPage - Set up the chrome driver
+[INFO ] 2021-09-02 11:40:46.633 [main] WebPage - Launched Chrome browser successfully
+[INFO ] 2021-09-02 11:40:46.634 [main] WebPage - Thread id: 1
+[INFO ] 2021-09-02 11:40:46.846 [main] WebPage - Maximized browser window
+[INFO ] 2021-09-02 11:40:53.960 [main] WebPage - Deleted all cookies
+[INFO ] 2021-09-02 11:40:54.077 [main] WebPage - Closed the current browser window
+[INFO ] 2021-09-02 11:40:54.696 [main] WebPage - Closed all browser windows
+[INFO ] 2021-09-02 11:42:11.058 [main] WebPage - Set up the chrome driver
+[INFO ] 2021-09-02 11:42:12.761 [main] WebPage - Launched Chrome browser successfully
+[INFO ] 2021-09-02 11:42:12.762 [main] WebPage - Thread id: 1
+[INFO ] 2021-09-02 11:42:12.923 [main] WebPage - Maximized browser window
+[INFO ] 2021-09-02 11:42:14.775 [main] WebPage - Opened http://www.amazon.in URL
+[INFO ] 2021-09-02 11:42:14.826 [main] WebPage - Page Title: Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2021-09-02 11:42:14.937 [main] WebPage - Current url: https://www.amazon.in/
+[INFO ] 2021-09-02 11:42:16.377 [main] WebPage - Clicked link with visible text 'Amazon Pay'
+[INFO ] 2021-09-02 11:42:16.455 [main] WebPage - Current url: https://www.amazon.in/gp/sva/dashboard?ref_=nav_cs_apay_fe0c735739554ca1a7cccf7c41941f2f
+[INFO ] 2021-09-02 11:42:17.693 [main] WebPage - Clicked link with visible text 'Best Sellers'
+[INFO ] 2021-09-02 11:42:17.755 [main] WebPage - Current url: https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers_17d44cb01bd144359b81b1c10b84dd98
+[INFO ] 2021-09-02 11:42:19.282 [main] WebPage - Clicked link with visible text 'Mobiles'
+[INFO ] 2021-09-02 11:42:19.440 [main] WebPage - Current url: https://www.amazon.in/mobile-phones/b/?ie=UTF8&node=1389401031&ref_=nav_cs_mobiles_9292c6cb7b394d30b2467b8f631090a7
+[INFO ] 2021-09-02 11:42:22.183 [main] WebPage - Clicked link with visible text 'Fashion'
+[INFO ] 2021-09-02 11:42:22.292 [main] WebPage - Current url: https://www.amazon.in/gp/browse.html?node=6648217031&ref_=nav_cs_fashion_ad6f81eb5d474066bc9e5788a3c19a28
+[INFO ] 2021-09-02 11:42:24.318 [main] WebPage - Clicked link with visible text 'Electronics'
+[INFO ] 2021-09-02 11:42:24.581 [main] WebPage - Current url: https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ref_=nav_cs_electronics_c5b70a82461a484189e700166599ce9f
+[INFO ] 2021-09-02 11:42:32.017 [main] WebPage - Deleted all cookies
+[INFO ] 2021-09-02 11:42:36.229 [main] WebPage - Closed the current browser window
+[INFO ] 2021-09-02 11:42:36.845 [main] WebPage - Closed all browser windows
+[INFO ] 2021-09-02 11:48:39.405 [main] WebPage - Set up the chrome driver
+[INFO ] 2021-09-02 11:48:41.146 [main] WebPage - Launched Chrome browser successfully
+[INFO ] 2021-09-02 11:48:41.147 [main] WebPage - Thread id: 1
+[INFO ] 2021-09-02 11:48:41.301 [main] WebPage - Maximized browser window
+[INFO ] 2021-09-02 11:48:43.868 [main] WebPage - Opened http://www.amazon.in URL
+[INFO ] 2021-09-02 11:48:43.996 [main] WebPage - Page Title: Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2021-09-02 11:48:44.077 [main] WebPage - Current url: https://www.amazon.in/
+[INFO ] 2021-09-02 11:48:45.730 [main] WebPage - Clicked link with visible text 'Amazon Pay'
+[INFO ] 2021-09-02 11:48:45.898 [main] WebPage - Current url: https://www.amazon.in/gp/sva/dashboard?ref_=nav_cs_apay_fe0c735739554ca1a7cccf7c41941f2f
+[INFO ] 2021-09-02 11:48:47.308 [main] WebPage - Clicked link with visible text 'Best Sellers'
+[INFO ] 2021-09-02 11:48:47.338 [main] WebPage - Current url: https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers_17d44cb01bd144359b81b1c10b84dd98
+[INFO ] 2021-09-02 11:48:48.982 [main] WebPage - Clicked link with visible text 'Mobiles'
+[INFO ] 2021-09-02 11:48:49.103 [main] WebPage - Current url: https://www.amazon.in/mobile-phones/b/?ie=UTF8&node=1389401031&ref_=nav_cs_mobiles_9292c6cb7b394d30b2467b8f631090a7
+[INFO ] 2021-09-02 11:48:51.327 [main] WebPage - Clicked link with visible text 'Fashion'
+[INFO ] 2021-09-02 11:48:51.362 [main] WebPage - Current url: https://www.amazon.in/gp/browse.html?node=6648217031&ref_=nav_cs_fashion_ad6f81eb5d474066bc9e5788a3c19a28
+[INFO ] 2021-09-02 11:48:53.177 [main] WebPage - Clicked link with visible text 'Electronics'
+[INFO ] 2021-09-02 11:48:53.452 [main] WebPage - Current url: https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ref_=nav_cs_electronics_c5b70a82461a484189e700166599ce9f
+[INFO ] 2021-09-02 11:49:00.581 [main] WebPage - Deleted all cookies
+[INFO ] 2021-09-02 11:49:04.753 [main] WebPage - Closed the current browser window
+[INFO ] 2021-09-02 11:49:05.377 [main] WebPage - Closed all browser windows
+[INFO ] 2021-09-02 11:49:59.668 [main] WebPage - Set up the chrome driver
+[INFO ] 2021-09-02 11:50:01.376 [main] WebPage - Launched Chrome browser successfully
+[INFO ] 2021-09-02 11:50:01.376 [main] WebPage - Thread id: 1
+[INFO ] 2021-09-02 11:50:01.546 [main] WebPage - Maximized browser window
+[INFO ] 2021-09-02 11:50:03.675 [main] WebPage - Opened http://www.amazon.in URL
+[INFO ] 2021-09-02 11:50:03.772 [main] WebPage - Page Title: Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2021-09-02 11:50:03.799 [main] WebPage - Current url: https://www.amazon.in/
+[INFO ] 2021-09-02 11:50:04.830 [main] WebPage - Clicked link with visible text 'Amazon Pay'
+[INFO ] 2021-09-02 11:50:04.968 [main] WebPage - Current url: https://www.amazon.in/gp/sva/dashboard?ref_=nav_cs_apay_fe0c735739554ca1a7cccf7c41941f2f
+[INFO ] 2021-09-02 11:50:06.398 [main] WebPage - Clicked link with visible text 'Best Sellers'
+[INFO ] 2021-09-02 11:50:06.430 [main] WebPage - Current url: https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers_17d44cb01bd144359b81b1c10b84dd98
+[INFO ] 2021-09-02 11:50:08.427 [main] WebPage - Clicked link with visible text 'Mobiles'
+[INFO ] 2021-09-02 11:50:08.517 [main] WebPage - Current url: https://www.amazon.in/mobile-phones/b/?ie=UTF8&node=1389401031&ref_=nav_cs_mobiles_9292c6cb7b394d30b2467b8f631090a7
+[INFO ] 2021-09-02 11:50:10.821 [main] WebPage - Clicked link with visible text 'Fashion'
+[INFO ] 2021-09-02 11:50:10.971 [main] WebPage - Current url: https://www.amazon.in/gp/browse.html?node=6648217031&ref_=nav_cs_fashion_ad6f81eb5d474066bc9e5788a3c19a28
+[INFO ] 2021-09-02 11:50:12.439 [main] WebPage - Clicked link with visible text 'Electronics'
+[INFO ] 2021-09-02 11:50:12.581 [main] WebPage - Current url: https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ref_=nav_cs_electronics_c5b70a82461a484189e700166599ce9f
+[INFO ] 2021-09-02 11:50:20.049 [main] WebPage - Deleted all cookies
+[INFO ] 2021-09-02 11:50:24.169 [main] WebPage - Closed the current browser window
+[INFO ] 2021-09-02 11:50:24.781 [main] WebPage - Closed all browser windows
+[INFO ] 2021-09-02 14:05:16.705 [main] WebPage - Set up the chrome driver
+[INFO ] 2021-09-02 14:05:18.271 [main] WebPage - Launched Chrome browser successfully
+[INFO ] 2021-09-02 14:05:18.271 [main] WebPage - Thread id: 1
+[INFO ] 2021-09-02 14:05:18.438 [main] WebPage - Maximized browser window
+[INFO ] 2021-09-02 14:05:20.462 [main] WebPage - Opened http://www.amazon.in URL
+[INFO ] 2021-09-02 14:05:20.752 [main] WebPage - Page Title: Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2021-09-02 14:05:20.825 [main] WebPage - Current url: https://www.amazon.in/
+[INFO ] 2021-09-02 14:05:22.204 [main] WebPage - Clicked link with visible text 'Amazon Pay'
+[INFO ] 2021-09-02 14:05:22.311 [main] WebPage - Current url: https://www.amazon.in/gp/sva/dashboard?ref_=nav_cs_apay_fe0c735739554ca1a7cccf7c41941f2f
+[INFO ] 2021-09-02 14:05:23.451 [main] WebPage - Clicked link with visible text 'Best Sellers'
+[INFO ] 2021-09-02 14:05:23.778 [main] WebPage - Current url: https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers_17d44cb01bd144359b81b1c10b84dd98
+[INFO ] 2021-09-02 14:05:31.133 [main] WebPage - Deleted all cookies
+[INFO ] 2021-09-02 14:05:31.574 [main] WebPage - Closed the current browser window
+[INFO ] 2021-09-02 14:05:32.165 [main] WebPage - Closed all browser windows
+[INFO ] 2021-09-02 14:37:33.489 [main] WebPage - Set up the chrome driver
+[INFO ] 2021-09-02 14:37:35.211 [main] WebPage - Launched Chrome browser successfully
+[INFO ] 2021-09-02 14:37:35.211 [main] WebPage - Thread id: 1
+[INFO ] 2021-09-02 14:37:35.366 [main] WebPage - Maximized browser window
+[INFO ] 2021-09-02 14:37:37.094 [main] WebPage - Opened https://www.godaddy.com/ URL
+[INFO ] 2021-09-02 14:37:37.127 [main] WebPage - Current url: https://in.godaddy.com/
+[INFO ] 2021-09-02 14:37:44.205 [main] WebPage - Deleted all cookies
+[INFO ] 2021-09-02 14:37:44.901 [main] WebPage - Opened https://www.godaddy.com/ URL
+[INFO ] 2021-09-02 14:37:44.944 [main] WebPage - Page Title: Domain Names, Websites, Hosting & Online Marketing Tools - GoDaddy IN
+[INFO ] 2021-09-02 14:37:52.012 [main] WebPage - Deleted all cookies
+[INFO ] 2021-09-02 14:37:52.252 [main] WebPage - Closed the current browser window
+[INFO ] 2021-09-02 14:37:52.873 [main] WebPage - Closed all browser windows
